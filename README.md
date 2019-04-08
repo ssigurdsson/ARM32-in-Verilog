@@ -7,7 +7,7 @@ Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35
 See lab6.pdf for a not-so-descriptive yet useful report on the design details and performance.
 
 
-Modules:
+# Modules:
 
 LAB6.v - Top module containing the controller and instructions
 
@@ -23,5 +23,6 @@ testbench.v - Test bench. Provides the clock input and allows for monitoring of 
 
 Additional built-in-modules found in the built-in-modules folder.
 
+## Misc
 
 Some assembly programs that run on the processor are provided in assemblyprograms.s
