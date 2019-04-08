@@ -1,6 +1,6 @@
 # ARM32-in-Verilog
 
-Implemetation of a pipelined ARM32 processor in Verilog. 
+Implemetation of a 5-stage pipelined ARM32 processor in Verilog for course ENGN1640 at Brown U.
 
 Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35F672C6 FPGA.
 
