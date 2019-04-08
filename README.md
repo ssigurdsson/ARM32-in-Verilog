@@ -2,7 +2,7 @@
 
 Implemetation of a pipelined ARM32 processor in Verilog. 
 
-Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35F672C6.
+Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35F672C6 FPGA.
 
 See lab6.pdf for a not-so-descriptive yet useful report on the design details and performance.
 
