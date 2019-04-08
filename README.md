@@ -8,12 +8,20 @@ See lab6.pdf for a not-so-descriptive yet useful report on the design details an
 
 
 Modules:
+
 LAB6.v - Top module containing the controller and instructions
+
 ALU.v - ALU module
+
 conditional.v - Condition checker module
+
 decoder.v - Instruction decoder module
+
 hazard.v - Hazard detection module
+
 testbench.v - Test bench. Provides the clock input and allows for monitoring of signals.
+
 Additional built-in-modules found in the built-in-modules folder.
+
 
 Some assembly programs that run on the processor are provided in assemblyprograms.s
