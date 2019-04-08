@@ -2,7 +2,7 @@
 
 Implemetation of a 5-stage pipelined ARM32 processor in Verilog for course ENGN1640 at Brown U.
 
-Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35F672C6 FPGA.
+Runs the accompanied Factorial 6 program at up to 200 MHz frequency on an EP2C35F672C6 FPGA, the highest frequency in class for the year of 2017.
 
 See lab6.pdf for a not-so-descriptive yet useful report on the design details and performance.
 
