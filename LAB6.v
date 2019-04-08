@@ -12,7 +12,7 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 
-module LAB5(input wire CLOCK_50, input wire [17:0] SW);
+module LAB6(input wire CLOCK_50, input wire [17:0] SW);
 
 //Registers
 reg [31:0] Instructions [0:32];
